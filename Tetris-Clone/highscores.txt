@@ -1,0 +1,10 @@
+900:Matthew
+200:Zach
+600:Alyssa
+400:Marshall
+100:Bryce
+100:Joseph
+0:bob
+100:Olivia
+600:yeet
+0:yes
