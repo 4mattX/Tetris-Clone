@@ -1,7 +1,7 @@
 # Tetris-Clone
 
-Place all files within the same location/folder
+My personal tetris clone that implements a high-score and leveling system.
+This project primarily used the Swing Library.
+All graphics and artwork were done by me.
 
-Right click the Tetris TetrisWindow.java file and open with Java, or any compiler of your choice
-
-Enjoy!! :D
+Run the TetrisWindow.java file with any compiler of your choice to play.
